@@ -2,11 +2,17 @@
 
 Not the best way to apply ROI, but this one is simple and works :smile:
 
-
-
 # Overview
 
 This project can help you crop images from a region of interest marked manually.
+
+Original image:
+
+![Original](https://raw.githubusercontent.com/whoisraibolt/Region-of-Interest/master/Images/005.jpg)
+
+Cropped image:
+
+![Cropped](https://raw.githubusercontent.com/whoisraibolt/Region-of-Interest/master/Images/cropped_5.jpg)
 
 # Dependencies
 
@@ -20,8 +26,8 @@ This project can help you crop images from a region of interest marked manually.
 
 # Other information
 
-ROI-Single-Image - Apply to a single image;
-ROI-Multi-Images - Apply to all images in a given directory.
+- ROI-Single-Image - Apply to a single image;
+- ROI-Multi-Images - Apply to all images in a given directory.
 
 # License
 
